@@ -1,0 +1,6 @@
+pkg update
+pkg upgrade
+pkg install vim git python tor torsocks cronie figlet
+pip install django
+pkg remove nano
+pip install --upgrade pip
